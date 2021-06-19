@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookshelf title="No.1"> 
+  <book> 
+    <bookName>浪潮之巅</bookName>  
+    <author>吴军</author>  
+    <author>李开复</author>  
+    <price>50</price>  
+    <personalInfo>
+      <age>50</age>
+    </personalInfo> 
+  </book>  
+  <book> 
+    <bookName>数学之美</bookName>  
+    <author title="ADS">陆奇</author>  
+    <price>29</price>  
+    <personalInfo>
+      <age>50</age>
+    </personalInfo> 
+  </book>  
+  <bookAdded>this is an added book</bookAdded>
+  <bookToModify>after modified</bookToModify>
+</bookshelf>

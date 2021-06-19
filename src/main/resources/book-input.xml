@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookshelf>
+    <book>
+        <bookName>第一本书：浪潮之巅</bookName>
+        <author>吴军</author>
+        <author>李开复</author>
+        <price>50</price>
+        <personalInfo><age>50</age></personalInfo>
+    </book>
+    <book>
+        <bookName>第二本书：数学之美</bookName>
+        <author title='ADS'>陆奇</author>
+        <price>29</price>
+        <personalInfo><age>52</age></personalInfo>
+    </book>
+</bookshelf>
